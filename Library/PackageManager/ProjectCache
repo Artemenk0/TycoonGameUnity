@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638779846524815665
-    m_Hash: 3371769948
+      ticks: 638780006611873203
+    m_Hash: 3232042769
   m_LockFileStatus:
     m_FilePath: C:/Users/Vladyslav/TestTycoon/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638779846525242596
-    m_Hash: 3808405936
+      ticks: 638780006611883176
+    m_Hash: 1465929720
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
